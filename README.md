@@ -325,7 +325,7 @@ Through this project, I learned:
 Data Analyst | Power BI Developer | SQL Developer
 
 GitHub:
-https://github.com/Atul9135
+https://github.com/Atul9125
 
 LinkedIn:
 www.linkedin.com/in/atul-kumar-shaw-
